@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fifth project</string>
+    <string name="btn_rate">Rate us</string>
+    <string name="btn_questions">Questions</string>
+    <string name="tv_score">XX/YY</string>
+    <string name="btn_question">Question</string>
+    <string name="tv_answer">Press ? Button for answer</string>
+</resources>

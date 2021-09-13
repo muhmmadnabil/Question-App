@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <item name="another_layout" type="layout" tools:ignore="MissingDefaultResource">@layout/first</item>
+    <item name="second_layout" type="layout" tools:ignore="MissingDefaultResource">@layout/second</item>
+    <dimen name="btn_main_width">180dp</dimen>
+    <dimen name="btn_main_height">60dp</dimen>
+    <dimen name="btn_main_text">25sp</dimen>
+
+    <dimen name="tv_score_text">50sp</dimen>
+    <dimen name="btn_voice">70dp</dimen>
+    <dimen name="tv_question_text">50sp</dimen>
+    <dimen name="tv_answer_text">50sp</dimen>
+    <dimen name="btn_controller">80dp</dimen>
+</resources>

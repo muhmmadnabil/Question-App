@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="que">
+        <item> What is the computer system?</item>
+        <item> What is a microprocessor?</item>
+        <item> What is a programming language?</item>
+        <item> What is Networking?</item>
+        <item> What are the layers of the OSI model?</item>
+        <item> What is an array?</item>
+        <item> What is a constructor?</item>
+        <item> What is artificial intelligence?</item>
+        <item> What is machine learning?</item>
+        <item> What is deep learning?</item>
+        <item> What are Routers?</item>
+        <item> Why is VLAN used?</item>
+        <item> What is the difference between static and dynamic IP addresses?</item>
+        <item> What is Peer to Peer network?</item>
+        <item> What is the World Wide Web (WWW)?</item>
+        <item> What is an Algorithm?</item>
+        <item> What is the operating system?</item>
+        <item> What is the IEEE standard for wireless networking?</item>
+        <item> What do you understand by ‘Protocol’ in networking?</item>
+        <item> What is the Domain Name System (DNS)?</item>
+    </string-array>
+</resources>

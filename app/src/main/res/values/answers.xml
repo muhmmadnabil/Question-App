@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ans">
+
+     <item>
+        A computer system is a combination of memory,
+         CPU, peripheral devices that are connected to it,
+         and OS (Operating System).
+    </item>
+
+    <item>
+        A microprocessor is an integrated circuit having all the functionality
+        of a central processing unit of a PC.
+    </item>
+
+    <item>
+        A programming language is a collection of grammar rules for giving
+        instructions to computer or computing devices in order to perform achieve task.
+    </item>
+
+    <item>
+        Networking is used to connect or operate with a network.
+        It is the process of creating and using wired or wireless networks for exchanging information,
+        ideas, files, and other electronic communication.
+    </item>
+
+    <item>
+        Layer 1 – Physical
+        Layer 2 – Data Link Layer
+        Layer 3 – Network
+        Layer 4 – Transport
+        Layer 5 – Session
+        Layer 6 – Presentation
+        Layer 7- Application
+    </item>
+
+    <item>
+        An array is a container that keeps a specific number of
+        similar data types.
+    </item>
+
+    <item>
+        A constructor is a method that is used to create a class object.
+    </item>
+
+    <item>
+        Artificial Intelligence or machine intelligence
+        is a common term that is used to build smart machines capable of performing tasks. The main aim of AI is to solve problems in a way that are better and faster.
+    </item>
+
+    <item>
+        Machine Learning is a system that can learn from an excellent
+        example through self-improvement and without
+        being explicitly coded by a programmer.
+    </item>
+
+    <item>
+        Deep learning is computer software that mimics
+        the network of neurons in a brain. It is
+        a subset of machine learning and is called
+        deep learning because it makes use of
+        deep neural networks.
+    </item>
+
+    <item>
+        Routing is the process to find the path on
+        which the information or data can pass from the
+        source to its destination. The device by which
+        routing is done is called Routers.
+    </item>
+
+    <item>
+        It is a Virtual LAN network which is used to
+        make a separate domain in a single switch.
+    </item>
+    <item>
+        Static IP address will not change over time and is
+        reserved statically whereas dynamic IP address changes
+        each time when you connect to the Internet.
+    </item>
+
+    <item>
+        The P2P network is a distributed and decentralized
+        network where individual nodes i.e. Peers in the networks
+        act as both suppliers and consumers of the resources.
+    </item>
+
+    <item>
+        WWW or World Wide Web is a method of
+        accessing information using internet media.
+    </item>
+
+    <item>
+        An algorithm is a rule or step-by-step
+        process that must be followed in order to
+        solve a particular problem.
+    </item>
+
+    <item>
+        An Operating system (OS) is a software that
+        acts as an interface between the end-user
+        and computer hardware. Every computer must have at least one OS to run other programs.
+    </item>
+
+    <item>
+        IEEE 802.11
+    </item>
+
+    <item>
+        A protocol enables two devices to connect and
+        transmit the information or data to one another.
+    </item>
+
+    <item>
+        DNS is an internet service that translates domain names
+        into IP addresses. Anything connected to the internet i.e. mobile phones, laptops, websites etc. has an IP address that is uniquely defined.
+    </item>
+
+    </string-array>
+    </resources>
